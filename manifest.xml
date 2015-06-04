@@ -17,7 +17,7 @@
     <Host Name = "Database" />
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://drive.google.com/open?id=0BzxIUQj1QUmAU2ExNUxxeVVBV2s&authuser=0" />
+    <SourceLocation DefaultValue="https://drive.google.com/open?id=0BzxIUQj1QUmAU2ExNUxxeVVBV2s&authuser=0 " />
 	 <RequestedWidth>400</RequestedWidth> 
     <RequestedHeight>400</RequestedHeight>
   </DefaultSettings>
